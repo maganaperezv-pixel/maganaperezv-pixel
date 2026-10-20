@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola :) Soy Victor Manuel Magaña Pérez :)
 
-<!--
-**maganaperezv-pixel/maganaperezv-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+- 🎓 Estudio Ingeniería de Software en la Facultad de Ingeniería Electromécanica
+- 📍 Soy de Manzanillo, Colima, México
+- 🌱 Actualmente estoy aprendiendo lenguaje c, bash y pseudocódigo :)
+- 🎯 Mi meta es poder titularme por promedio de la carrera :)
 
-Here are some ideas to get you started:
+## Mis intereses
+- 💻 Me interesa programar en HTML y todo lo que eso conlleva (css, boostrap, php, java, etc.)
+- 🐧 Estoy interesado en pulir y dominar todo lo relacionado con back-end para poder ser full stack
+- 🐒 Me llama la atención poder programas aplicaciones android con android studio y kotlin :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto
+- 📧 vmagana12@ucol.mx
+
+
