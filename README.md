@@ -22,6 +22,6 @@
 - Python
 
 ## Linkedin
-- ([Linkedin](www.linkedin.com/in/victor-manuel-magaña-pérez-497533445))
+- ([Linkedin](www.linkedin.com/in/victor-magana1))
 
 
