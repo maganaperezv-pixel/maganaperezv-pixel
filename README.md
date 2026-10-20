@@ -22,6 +22,6 @@
 - Python
 
 ## Linkedin
-- ([Linkedin](www.linkedin.com/in/victor-magana1))
+- ([Linkedin](www.linkedin.com/in/victor-magana1)) www.linkedin.com/in/victor-magana1
 
 
